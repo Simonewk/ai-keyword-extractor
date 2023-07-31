@@ -46,7 +46,7 @@ const options = {
         frequency_penalty: 0.8
       })
     }
-    ```
+```
 
     I added this in the app component. 
     ChatGPT uses 'text-davinci-003
